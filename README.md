@@ -1,2 +1,3 @@
 # hello-world
-FIrst repository to learn GitHub
+First repository to learn GitHub
+Wishful developer 
